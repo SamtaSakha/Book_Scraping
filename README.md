@@ -1,7 +1,7 @@
-### 📚 Book Scraping Project
+# 📚 Book Scraping Project
 This project is a web scraping script developed in Python to extract useful book-related data from an online bookstore website. It demonstrates skills in data extraction, parsing, and storage, using tools like BeautifulSoup, Requests, and Pandas.
 
-# 🚀 Features
+### 🚀 Features
 Scrapes data such as:
 
 📖 Book Title
@@ -22,7 +22,7 @@ Saves data into a structured CSV file
 
 Can be modified to target other book websites
 
-# 🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used
 Python 🐍
 
 BeautifulSoup4 🌸
